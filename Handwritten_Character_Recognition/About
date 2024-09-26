@@ -2,3 +2,12 @@
 best_model.h5 
 Hand Written character Recognition.ipynb : contains the code for recogizing the handwritten characters written by me
 requirements.text : these libraries are needs to be install in your device along wiht python
+
+
+
+This project aims to develop a robust system for recognizing handwritten characters. Using a dataset of handwritten letters, 
+the model preprocesses input images and applies machine learning techniques to classify characters effectively. The implementation 
+involves feature extraction methods and classifiers to achieve high accuracy in recognizing letters from images. The project demonstrates 
+the potential of machine learning in solving real-world problems, particularly in automating the transcription of handwritten text
+
+
