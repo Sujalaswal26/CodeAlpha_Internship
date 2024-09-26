@@ -1,17 +1,17 @@
 Package Used:
 
-TensorFlow
-Scikit-learn
-Open-CV
-Numpy
-Pandas
-Matplotlib
+  TensorFlow
+  Scikit-learn
+  Open-CV
+  Numpy
+  Pandas
+  Matplotlib
 
 
 (A-Z) Images : Contains the Handwritten images written by me;
 best_model.h5 
 Hand Written character Recognition.ipynb : contains the code for recogizing the handwritten characters written by me
-requirements.text : these libraries are needs to be install in your device along wiht python
+requirements.text : these libraries are needs to be install in your device along with python
 
 
 
