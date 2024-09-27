@@ -1,4 +1,24 @@
-  Disease-prediction-using-Machine-Learning
+# Disease Prediction using Machine Learning
 
-  This Machine Learning project is used to predict the disease based on the symptoms given by the user.
-  It predicts using three different machine learning algorithms.So,the output is accurate.It uses tkinter for GUI.
+## Overview
+This Machine Learning project predicts diseases based on the symptoms provided by the user. It employs three different machine learning algorithms, ensuring accurate predictions. The user-friendly interface is built using Tkinter.
+
+## Features
+- **Predictive Analysis**: Utilizes three machine learning algorithms for accurate disease prediction.
+- **User-Friendly GUI**: Developed with Tkinter for an interactive experience.
+
+## Datasets Required
+To run this project, you need the following datasets:
+- **Training Dataset**: `Training.csv`
+- **Testing Dataset**: `Testing.csv`
+
+## How to Use
+1. Ensure you have the necessary datasets in the project directory.
+2. Run the application using Python.
+3. Enter symptoms in the GUI and receive predictions.
+
+## Installation
+To set up this project, follow these steps:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/Disease-prediction-using-Machine-Learning.git
